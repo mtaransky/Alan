@@ -14,9 +14,9 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
+  "What problem—or tension—does your work keep returning to, even when you try to move away from it?",
+  "Will you describe a moment in your process where something unexpected changed the direction of a piece?",
+  "What do you hope your audience has to work to understand in your work?",
 ];
 
 export default function Chat() {
@@ -83,10 +83,10 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Hi, I'm a fine tuned LLM.
+              Do you want to chat with a silence artist?.
             </h1>
             <p className="text-gray-500">
-              I'm part of a series of computational experiments taught by{" "}
+              I'm a chatbot made as part of a series of computational experiments taught by{" "}
               <a
                 href="https://linkin.bio/yallahalim/"
                 target="_blank"
