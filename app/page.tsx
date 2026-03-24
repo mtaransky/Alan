@@ -83,7 +83,7 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Do you want to chat with a silence artist?.
+              Do you want to chat with a silence artist?
             </h1>
             <p className="text-gray-500">
               I'm a chatbot made as part of a series of computational experiments taught by{" "}
